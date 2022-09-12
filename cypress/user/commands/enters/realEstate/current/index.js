@@ -1,0 +1,6 @@
+export { income } from "./income"
+export { owner } from "./owner"
+export { name } from "./name"
+export { registration } from "./registration"
+export { value } from "./value"
+export { mortgageValue } from "./mortgageValue"

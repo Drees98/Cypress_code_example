@@ -1,0 +1,1 @@
+export { owner } from "./owner"
